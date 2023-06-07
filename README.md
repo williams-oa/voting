@@ -2,7 +2,7 @@
 
 Build your first decentralized application, or dApp, on the Bitcoin with this tutorial.
 
-[LIVE DEMO](http://classic.scrypt.io/voting/) 🚀
+[LIVE DEMO](https://williams-oa.github.io/voting) 🚀
 
 ## Step 1. Clone the project
 
